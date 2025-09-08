@@ -36,7 +36,7 @@
         "laravel/ui": "^4.0",
         "maatwebsite/excel": "^3.1.46",
         "mpdf/mpdf": "^8.2",
-        "nesbot/carbon": "^2.72.2",
+        "nesbot/carbon": "^3.8.4",
         "openai-php/laravel": "dev-main",
         "paypal/paypal-checkout-sdk": "1.0.1",
         "predis/predis": "^2.2",
