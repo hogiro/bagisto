@@ -45,7 +45,6 @@
         "shetabit/visitor": "^4.1",
         "spatie/laravel-responsecache": "^7.4",
         "spatie/laravel-sitemap": "^7.3",
-        "bagisto/bagisto": "dev-2.3"
     },
     "require-dev": {
         "bagisto/laravel-datafaker": "2.3.*",
@@ -134,10 +133,6 @@
                 "symlink": true
             }
         },
-        {
-            "type": "vcs",
-            "url": "https://github.com/hogiro/bagisto"
-        }
     ],
     "config": {
         "optimize-autoloader": true,
