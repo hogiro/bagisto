@@ -125,15 +125,13 @@
             ]
         }
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "packages/*/*",
-            "options": {
-                "symlink": true
-            }
-        },
-    ],
+    "repositories": [{
+        "type": "path",
+        "url": "packages/*/*",
+        "options": {
+            "symlink": true
+        }
+    }],
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
@@ -143,7 +141,7 @@
             "php-http/discovery": true
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "support": {
         "issues": "https://github.com/bagisto/bagisto/issues",
